@@ -1,5 +1,5 @@
 ### Hi, I'm Wahid Rizka Fathurrohman(wrfOxobz) 
-A passionate self-taught frontEnd web developer from Indonesia.👋
+A passionate self-taught Data Science from Indonesia.👋
 
 - 🌼 I’m currently working on KartoFDN
 - 🚀 I’m currently learning a Python for Data Science
