@@ -1,7 +1,7 @@
 ### Hi, I'm Wahid Rizka Fathurrohman(wrfOxobz) 
 A passionate self-taught Data Science from Indonesia.👋
 
-- 🌼 I’m currently working on KartoFDN
+- 🌼 I'm a student at Amikom University of Yogyakarta
 - 🚀 I’m currently learning a Python for Data Science
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
